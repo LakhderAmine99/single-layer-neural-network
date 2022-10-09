@@ -1,5 +1,3 @@
-from random import randint, random
-from turtle import shape
 import numpy as np
 
 class SingleLayerNeuralNetwork(object):
